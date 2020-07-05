@@ -4,3 +4,4 @@ pivnet-file-glob: "srt-*.pivotal"
 pivnet-product-slug: elastic-runtime
 product-version-regex: ^2\.9\.\d+$
 stemcell-iaas: vsphere
+stemcell-version: "621.75"
