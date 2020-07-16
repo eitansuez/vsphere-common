@@ -31,7 +31,7 @@ product-properties:
     value: simple
   .properties.nsx_auth.simple.nsx_api_password:
     value:
-      secret: ((nsx_password))
+      secret: ((vcenter_password))
   .properties.nsx_auth.simple.nsx_api_user:
     value: admin
   .properties.nsx_node_agent_debug_log:
